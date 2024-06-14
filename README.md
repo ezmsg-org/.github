@@ -1,1 +1,1 @@
-# .github
+# ezmsg-org
